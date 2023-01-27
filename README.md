@@ -4,7 +4,7 @@ Create a cumulative return plot that shows the actual returns vs. the strategy r
 
 ![Screen Shot 2023-01-26 at 7 42 24 PM](https://user-images.githubusercontent.com/111663557/215005143-6c7fe9ff-1807-4688-a921-a621a13cc7cc.png)
 
-From the plot we can see our strategy returns have greater cumulattive returns thus outperforming actual returns.
+From the plot we can see our strategy returns have an overall greater cumulattive returns when compared to the actual returns.
 
 
 Plot of actual returns vs the strategy returns
